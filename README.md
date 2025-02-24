@@ -28,7 +28,7 @@ cd m2c-digital-test
 - After start NestJS API, you can find all related information trought address http://localhost:8080/doc with credentials (admin:topsecret)
 
 ### Container Logs and Info
-- Consult `Makefile` in the project root to know how to inspect container logs
+- Check `Makefile` in the project root to know how to inspect container logs
 
 ### How to Use
 - Access [Login Route on Swagger](http://localhost:8080/doc/#/auth/AuthController_login)

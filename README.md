@@ -23,3 +23,9 @@ cd m2c-digital-test
 |MONGODB_URI|mongodb://mongo:mongo@mongo_db:27017| MongoDB URI
 |MONGODB_DB_NAME|m2c_db| Mongo database name
 |MAX_MESSAGES_COUNT|3| Max messages count
+
+### API Docs
+- After start NestJS API, you can find all related information trought address http://localhost:8080/doc with credentials (admin:topsecret)
+
+### Container Logs and Info
+- Consult `Makefile` in the project root to know how to inspect container logs

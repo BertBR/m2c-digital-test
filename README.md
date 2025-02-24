@@ -29,3 +29,8 @@ cd m2c-digital-test
 
 ### Container Logs and Info
 - Consult `Makefile` in the project root to know how to inspect container logs
+
+### How to Use
+1 - Access [Login Route on Swagger](http://localhost:8080/doc/#/auth/AuthController_login)
+2 - Log-In with default Admin user
+3 - Then, go to the [Create Campaign Route](http://localhost:8080/doc/#/campaign/CampaignController_create) to create a fake campaign and send messages to the consumers

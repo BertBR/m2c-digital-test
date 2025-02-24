@@ -9,7 +9,8 @@ Please read the `test-requirements.pdf` file to know everything about it.
 - Ensure you have docker installed on your computer
 - Clone the project
 ```
-
+git clone git@github.com:BertBR/m2c-digital-test.git
+cd ~/m2c-digital-test
 ```
 - Run it with: `make` command in project **root** directory
 
